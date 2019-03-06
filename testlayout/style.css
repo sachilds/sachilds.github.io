@@ -5,6 +5,10 @@ body {
 	margin: 0;
 }
 
+a {
+	text-decoration: none;
+}
+
 .sidebar {
 	background-color: #1E1E1E;
 	color: #EBEBEB;
