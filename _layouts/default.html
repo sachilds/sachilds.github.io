@@ -1,19 +1,31 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<title>Title of the page</title>
+			<link rel="stylesheet" type="text/css" href="css/style.css">
 		</head>
 		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
+			<div id="SidebarNav" class="sidebar">
+				<h1>{sChilds}</h1>
+				<p> Here is a little blerb about myself and what I like to work on. What languages I use, and what I'm interested in, etc. </p>
+				<br />
+				
+				<ul id="NavInfo" class="sidenav">
+					<li><a href="index.html">Projects</a></li>
+					<li><a href="resume.html">Resume</a></li>
+					<li><a href="contact.html">Contact</a></li>
+				</ul>
+				
+				<hr>
+				
+				<ul id="NavWork" class="sidenav">
+					<li><a href="">Other</a></li>
+					<li><a href="">C# & Unity</a></li>
+					<li><a href="">C++ & Unreal</a></li>
+					<li><a href="">Java</a></li>
+					<li><a href="">Web Development</a></li>
+				</ul>	
+			</div>
 			<div class="container">
 			
 			{{ content }}
