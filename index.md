@@ -8,5 +8,6 @@ title: Projects Index Page
 </div>
 
 <div class="gallery">
+	<a href="https://github.com/sachilds/PSO"><img src="../projects/images/blank.jpg" alt="Chess" /></a>
 	<div class="desc"><a href="https://github.com/sachilds/PSO">Vanilla Particle Swarm Optimization</a> <br /><em>Java</em></div>
 </div>
