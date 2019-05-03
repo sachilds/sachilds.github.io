@@ -1,0 +1,36 @@
+---
+layout: default
+title: Projects Index Page
+---
+<div class="gallery">
+	<img src="images/redchillie/index.jpg" alt="Red Chillie" />
+	<div class="desc"><a href="http://redchilliexpress.com">Red Chillie</a></div>
+</div>
+ 
+ <h1>Red Chillie Website</h1>
+ 
+ 
+ <ul class="projectInfo">
+	<li><strong>Language:</strong> HTML/CSS</li>
+	<li><strong>Target Platform:</strong> Web Browsers</li>
+	<li><strong>Timeframe:</strong> approx. July 2017</li>
+	<li><strong>Website:</strong> <a href="http://redchilliexpress.com">Click Here</a></li>
+ </ul>
+ 
+<p style="width: 80%;">Updated the Red Chillie website from it's pure image-based website/menu to an easier to update version for management. This was done to prevent customer's from receiving inaccurate information from the online menu and provide an easier navigation system. The base of the design was the pre-existing paper menus available in the restaurant, providing the colour scheme, images and primary fonts. </p>
+<br /> <br />
+<h2>Screenshots</h2> 
+
+<div class="gallery">
+	<a href="images/redchillie/index.jpg"><img src="images/redchillie/index.jpg" alt="Home Page" /></a>
+	<div class="desc">Home Page</div>
+</div>
+
+<div class="gallery">
+	<a href="images/redchillie/location.jpg"><img src="images/redchillie/location.jpg" alt="Location" /></a>
+	<div class="desc">Location Page</div>
+</div>
+
+
+
+
