@@ -8,11 +8,11 @@ title: Projects Index Page
 </div>
 
 <div class="gallery">
-	<a href="https://github.com/sachilds/PSO"><img src="images/blank.jpg" alt="Chess" /></a>
+	<a href="https://github.com/sachilds/PSO"><img src="images/blank.jpg" alt="Vanilla PSO" /></a>
 	<div class="desc"><a href="https://github.com/sachilds/PSO">Vanilla Particle Swarm Optimization</a> <br /><em>Java</em></div>
 </div>
 
 <div class="gallery">
-	<a href="redchillie.html"><img src="images/redchillie/index.jpg" alt="Chess" /></a>
+	<a href="redchillie.html"><img src="images/redchillie/index.jpg" alt="Red Chillie Website" /></a>
 	<div class="desc"><a href="redchillie.html">Red Chillie Website</a> <br /><em>HTML/CSS</em></div>
 </div>
