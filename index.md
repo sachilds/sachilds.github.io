@@ -13,6 +13,6 @@ title: Projects Index Page
 </div>
 
 <div class="gallery">
-	<a href="redchillie.html"><img src="images/redchillie/index.jpg" alt="Red Chillie Website" /></a>
+	<a href="redchillie.html"><img src="images/redchillie/index.JPG" alt="Red Chillie Website" /></a>
 	<div class="desc"><a href="redchillie.html">Red Chillie Website</a> <br /><em>HTML/CSS</em></div>
 </div>
