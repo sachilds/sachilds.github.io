@@ -3,7 +3,7 @@ layout: default
 title: Projects Index Page
 ---
 <div class="gallery">
-	<a href="https://github.com/sachilds/Alice-Capstone"><img src="images/project_alice.jpg" alt="Project Alice" /></a>
+	<a href="https://github.com/sachilds/Alice-Capstone"><img src="images/project_alice.png" alt="Project Alice" /></a>
 	<div class="desc"><a href="https://github.com/sachilds/Alice-Capstone">Project Alice</a> <br /><em>C++ w/ Unreal Engine 4</em></div>
 </div>
 
